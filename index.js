@@ -7,6 +7,6 @@ const decadelyRent = yearlyRent * 10;
 const firstName ="Olivia";
 const lastName "Murimi";
 
-const sentence ="Hello" + firstName + "" + lastName + "How are you?!"
+const sentence = `Hello ${firstName}`;
 
 console.log(sentence);
