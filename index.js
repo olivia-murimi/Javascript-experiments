@@ -1,6 +1,3 @@
-let myName = "Olivia"
+const num =5.0001;
 
-myName = 15;
-
-myName = true;
-console.log(myName)
+console.log(num);
