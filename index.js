@@ -1,3 +1,7 @@
-const num =5.0001;
+const isSkyBlue = true;
 
-console.log(num + 1.123);
+if(isSkyBlue) {
+    console.log("The sky is blue!");
+} else{
+    console.log("The sky is ...not blue?");
+}
