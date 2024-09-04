@@ -1,3 +1,6 @@
-const isTheSkyBlue = true;
+let myName = "Olivia"
 
-console.log(isTheSkyBlue);
+myName = 15;
+
+myName = true;
+console.log(myName)
