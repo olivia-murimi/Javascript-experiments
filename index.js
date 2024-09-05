@@ -8,3 +8,4 @@ if(isSkyBlue) {
 }
 const myName = Olivia;
 console.log
+if myName
