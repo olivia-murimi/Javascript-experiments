@@ -1,11 +1,7 @@
 const isSkyBlue = true;
 
-if(isSkyBlue) {
+if (isSkyBlue) {
     console.log("The sky is blue!");
-} else{
+}else {
     console.log("The sky is ...not blue?");
-
 }
-const myName = Olivia;
-console.log
-if myName
