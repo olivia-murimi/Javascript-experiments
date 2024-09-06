@@ -9,5 +9,6 @@ if (isSkyBlue) {
 const myVariable = 10;
 
 if(2 + 2 === 4){
-
+  console.log("Hooray! Math still works")
+  console.log("Uh. panic");
 }
