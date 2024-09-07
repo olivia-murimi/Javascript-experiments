@@ -1,4 +1,7 @@
-const areTheLightsOn = true'
+const areTheLightsOn = true;
+if(areTheLightsOn){
+  //turn the lights off
+}
 const isSkyBlue = true;
 
 if (isSkyBlue) {
