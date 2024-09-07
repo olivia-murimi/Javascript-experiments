@@ -1,3 +1,4 @@
+const areTheLightsOn = true'
 const isSkyBlue = true;
 
 if (isSkyBlue) {
