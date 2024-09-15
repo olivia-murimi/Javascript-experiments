@@ -1,18 +1,5 @@
-const areTheLightsOn = true;
-if(areTheLightsOn){
-  //turn the lights off
-}
-const isSkyBlue = true;
+const friendsAtYouParty = 10;
 
-if (isSkyBlue) {
-    console.log("The sky is blue!");
-    console.log('lol');
-}else {
-    console.log("The sky is ...not blue?");
-}
-const myVariable = 10;
-
-if(2 + 2 === 4){
-  console.log("Hooray! Math still works")
-  console.log("Uh. panic");
+if(friendsAtYouParty === 0){
+  console.log("Cool. now i have all the nachos to myself"); 
 }
