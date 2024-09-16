@@ -1,5 +1,8 @@
 let friendsAtYourParty = 0;
 
-friendsAtYourParty = friendsAtYourParty +1;
+while (friendsAtYourParty < 10) {
+  friendsAtYourParty = friendsAtYourParty + 1;
+}
 
-console.log
+
+console.log(friendsAtYourParty);
