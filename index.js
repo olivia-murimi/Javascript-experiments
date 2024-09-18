@@ -1,5 +1,5 @@
 let friendsAtYourParty = 0;
-for(let i = 0; i <= 10; i+++){
+for(let counter = 0; counter <= 10; counter +++) {
   friendsAtYourParty++;
 }
 
