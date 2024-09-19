@@ -1,6 +1,8 @@
-let friendsAtYourParty = 0;
-for(let i = 0; i <= 10; i++) {
-  friendsAtYourParty++;
-}
+const character ="f";
+const timesToRepeat = 5;
+let answer ='';
 
-console.log(friendsAtYourParty);
+for (let i=0; i<timesToRepeat; i++){
+  answer = answer + character;
+}
+console.log(answer);
