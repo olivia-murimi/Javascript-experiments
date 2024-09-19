@@ -1,8 +1,3 @@
-const character ="f";
-const timesToRepeat = 5;
-let answer ='';
-
-for (let i=0; i<timesToRepeat; i++){
-  answer = answer + character;
+function addTwo(number) {
+  return number +2
 }
-console.log(answer);
