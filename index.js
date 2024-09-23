@@ -34,4 +34,8 @@ console.log(`Enrolled: ${isStudent}`);
 
 let fullName = "Olivia Murimi";
 let age = 18;
-let isStudent = true;
+let student = true;
+
+document.getElementById("p1").textContent = fullName;
+document.getElementById("p2").textContent = age;
+document.getElementById("p3").textContent = student;
