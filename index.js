@@ -16,8 +16,10 @@ console.log(x);
 //let gpa = 2.1;
 
 let firstName = "Olivia";
+let favoriteFood = "Pizza";
+let email = "olivia@gmail.com";
 
 console.log(typeof firstName);
+console.log(`Your name is ${firstName}` );
+console.log(`Your email is ${email}`);
 
-//console.log(`You are ${age} years old`);
-//console.log(`The price is ${price}`);
