@@ -23,3 +23,11 @@ console.log(typeof firstName);
 console.log(`Your name is ${firstName}` );
 console.log(`Your email is ${email}`);
 
+let online =true;
+let forSale =false;
+let isStudent = true;
+
+
+console.log(`Olivia is online ${online}`);
+console.log(`Is this car for sale ${forSale}`);
+console.log(`Enrolled: ${isStudent}`);
