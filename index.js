@@ -31,3 +31,7 @@ let isStudent = true;
 console.log(`Olivia is online ${online}`);
 console.log(`Is this car for sale ${forSale}`);
 console.log(`Enrolled: ${isStudent}`);
+
+let fullName = "Olivia Murimi";
+let age = 18;
+let isStudent = true;
