@@ -25,7 +25,7 @@ console.log(`Your email is ${email}`);
 
 let online =true;
 let forSale =false;
-let isStudent = true;
+let Student = true;
 
 
 console.log(`Olivia is online ${online}`);
@@ -34,8 +34,8 @@ console.log(`Enrolled: ${isStudent}`);
 
 let fullName = "Olivia Murimi";
 let age = 18;
-let student = true;
+let isStudent = true;
 
-document.getElementById("p1").textContent = fullName;
-document.getElementById("p2").textContent = age;
-document.getElementById("p3").textContent = student;
+document.getElementById("p1").textContent = `Your name is ${fullName}`;
+document.getElementById("p2").textContent = `You are ${age}`;
+document.getElementById("p3").textContent = `You are a student ${isStudent}`;
