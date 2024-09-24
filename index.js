@@ -52,7 +52,8 @@ let students = 30;
 //students *= 2;
 //students /= 2;
 
-students++;
-students--;
+//students++;
+//students--;
+
 
 console.log(students);
