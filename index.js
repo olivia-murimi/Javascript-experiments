@@ -59,6 +59,12 @@ let students = 30;
 console.log(students);
 
 
-let username;
+l//et username;
 username = window.prompt("what's your username");
 console.log(username);
+let username;
+
+document.getElementById("mysubmit").onclick = function(){
+ username = document.getElementById("mytext").value;
+ console.log(username);
+}
