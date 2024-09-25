@@ -57,3 +57,8 @@ let students = 30;
 
 
 console.log(students);
+
+
+let username;
+username = window.prompt("what's your username");
+console.log(username);
