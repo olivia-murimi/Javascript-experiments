@@ -62,10 +62,11 @@
 //let username;
 //username = window.prompt("what's your username");
 //console.log(username);
-let username;
+//let username;
 
-document.getElementById("mySubmit").onclick = function(){
-  let username = document.getElementById("myText").value;
- document.getElementById("myH1").textContent = `Hello ${username}`;
- console.log(username);
-}
+//document.getElementById("mySubmit").onclick = function(){
+  //let username = document.getElementById("myText").value;
+ //document.getElementById("myH1").textContent = `Hello ${username}`;
+  //console.log(username);
+//}
+let age = window.prompt("How old are you");
