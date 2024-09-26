@@ -3,44 +3,44 @@
 
 //window.alert(`This is an alert`);
 //window.alert(`I like pizza`);
-document.getElementById("myh1").textContent = 'Hello';
-document.getElementById("my p").textContent = 'I like pizza';
+//document.getElementById("myh1").textContent = 'Hello';
+//document.getElementById("my p").textContent = 'I like pizza';
 //This is a comment
-let x;
-x = 100;
+//let x;
+//x = 100;
 
-console.log(x);
+//console.log(x);
 
 //let age = 25;
 //let price = 10.99;
 //let gpa = 2.1;
 
-let firstName = "Olivia";
-let favoriteFood = "Pizza";
-let email = "olivia@gmail.com";
+//let firstName = "Olivia";
+//let favoriteFood = "Pizza";
+//let email = "olivia@gmail.com";
 
-console.log(typeof firstName);
-console.log(`Your name is ${firstName}` );
-console.log(`Your email is ${email}`);
+//console.log(typeof firstName);
+//console.log(`Your name is ${firstName}` );
+//console.log(`Your email is ${email}`);
 
-let online =true;
-let forSale =false;
-let Student = true;
+//let online =true;
+//let forSale =false;
+//let Student = true;
 
 
-console.log(`Olivia is online ${online}`);
-console.log(`Is this car for sale ${forSale}`);
-console.log(`Enrolled: ${isStudent}`);
+//console.log(`Olivia is online ${online}`);
+//console.log(`Is this car for sale ${forSale}`);
+//console.log(`Enrolled: ${isStudent}`);
 
-let fullName = "Olivia Murimi";
-let age = 18;
-let isStudent = true;
+//let fullName = "Olivia Murimi";
+//let age = 18;
+//let isStudent = true;
 
-document.getElementById("p1").textContent = `Your name is ${fullName}`;
-document.getElementById("p2").textContent = `You are ${age}`;
-document.getElementById("p3").textContent = `You are a student ${isStudent}`;
+//document.getElementById("p1").textContent = `Your name is ${fullName}`;
+//document.getElementById("p2").textContent = `You are ${age}`;
+//document.getElementById("p3").textContent = `You are a student ${isStudent}`;
 
-let students = 30;
+//let students = 30;
 //students = students + 1;
 //students = students -1;
 //students = students * 2:
@@ -56,12 +56,12 @@ let students = 30;
 //students--;
 
 
-console.log(students);
+//console.log(students);
 
 
-l//et username;
-username = window.prompt("what's your username");
-console.log(username);
+//let username;
+//username = window.prompt("what's your username");
+//console.log(username);
 let username;
 
 document.getElementById("mySubmit").onclick = function(){
