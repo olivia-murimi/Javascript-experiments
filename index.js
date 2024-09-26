@@ -69,7 +69,10 @@
  //document.getElementById("myH1").textContent = `Hello ${username}`;
   //console.log(username);
 //}
-let age = window.prompt("How old are you");
-age = Number(age);
-age+=1;
-console.log(age);
+//let age = window.prompt("How old are you");
+//age = Number(age);
+//age+=1;
+//console.log(age, typeof age);
+let x = "pizza";
+let y = "pizza";
+let z = "pizza";
