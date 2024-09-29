@@ -92,5 +92,13 @@ document.getElementById("mySubmit").onclick = function(){
  radius = document.getElementById("myText").value;
  radius = Number(radius);
  circumference = 2 * PI * radius;
- document.getElementById("myH3").tectContent = circumference;
+ document.getElementById("myH3").textContent = `Circumference: ${circumference}`;
 }
+Math.PI
+
+console .log(Math.PI);
+let x =3.21;
+let y =2;
+let z;
+
+z=Math
