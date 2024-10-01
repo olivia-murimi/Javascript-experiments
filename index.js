@@ -107,7 +107,10 @@ let z;
 //z = Math.trunc(x);
 //z = Math.pow(x,y);
 //z = Math.sqrt(x)
-z = Math.log(x);
-z = Math.sin(x);
-z = Math.abs(x);
-console.log(z);
+//z = Math.log(x);
+//z = Math.sin(x);
+//z = Math.abs(x);
+//console.log(z);
+let randomNum = Math.random();
+
+console.log(randomNum);
