@@ -111,6 +111,6 @@ let z;
 //z = Math.sin(x);
 //z = Math.abs(x);
 //console.log(z);
-let randomNum = Math.random();
+let randomNum =Math.floor Math.random() * 6 + 1;
 
 console.log(randomNum);
